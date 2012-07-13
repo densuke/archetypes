@@ -7,5 +7,11 @@
       <version>0.1-SNAPSHOT</version>
       <repository>http://github.com/densuke/archetypes/raw/master/snapshots</repository>
     </archetype>
+    <archetype>
+      <groupId>jp.fuga</groupId>
+      <artifactId>mywebapp</artifactId>
+      <version>0.1-SNAPSHOT</version>
+      <repository>http://github.com/densuke/archetypes/raw/master/snapshots</repository>
+    </archetype>
   </archetypes>
 </archetype-catalog>
