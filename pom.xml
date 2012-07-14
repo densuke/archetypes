@@ -17,5 +17,6 @@
   <modules>
     <module>myapp</module>
     <module>mywebapp</module>
+	<module>kdweb</module>
   </modules>
 </project>
