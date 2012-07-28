@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>jp.fuga</groupId>
+  <groupId>jp.ac.kobedenshi</groupId>
   <artifactId>kdweb</artifactId>
-  <version>0.2-SNAPSHOT</version>
-  <name>densuke's custom archetype(webapps)</name>
-  <url>http://fuga.jp/</url>
+  <version>0.3-SNAPSHOT</version>
+  <name>神戸電子専門学校 授業用webapp</name>
+  <url>http://www.kobedenshi.ac.jp/</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>

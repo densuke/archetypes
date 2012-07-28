@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>jp.fuga</groupId>
+  <groupId>jp.ac.kobedenshi</groupId>
   <artifactId>kdweb</artifactId>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.3-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20120715.201853</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20120728.201643</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20120715201853</lastUpdated>
+    <lastUpdated>20120728201643</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.2-20120715.201853-2</value>
-        <updated>20120715201853</updated>
+        <value>0.3-20120728.201643-1</value>
+        <updated>20120728201643</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.2-20120715.201853-2</value>
-        <updated>20120715201853</updated>
+        <value>0.3-20120728.201643-1</value>
+        <updated>20120728201643</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

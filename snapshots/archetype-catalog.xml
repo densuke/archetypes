@@ -14,7 +14,7 @@
       <repository>http://github.com/densuke/archetypes/raw/master/snapshots</repository>
     </archetype>
 	<archetype>
-      <groupId>jp.fuga</groupId>
+      <groupId>jp.ac.kobedenshi</groupId>
       <artifactId>kdweb</artifactId>
       <version>0.1-SNAPSHOT</version>
       <repository>http://github.com/densuke/archetypes/raw/master/snapshots</repository>

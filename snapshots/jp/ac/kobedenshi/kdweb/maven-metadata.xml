@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>jp.fuga</groupId>
+  <groupId>jp.ac.kobedenshi</groupId>
   <artifactId>kdweb</artifactId>
   <versioning>
     <versions>
-      <version>0.1-SNAPSHOT</version>
-      <version>0.2-SNAPSHOT</version>
+      <version>0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20120715201853</lastUpdated>
+    <lastUpdated>20120728201644</lastUpdated>
   </versioning>
 </metadata>
