@@ -12,5 +12,5 @@ if [ ! -d $SUBDIR ]; then
 	exit 1
 fi
 cd $SUBDIR
-mvn -DaltDeploymentRepository=${REPO}::default::file:../snapshots/ clean deploy
+mvn -DaltDeploymentRepository=${REPO}::default::file:../snapshots/ -Darchetype.filterdExtentions=jpg clean deploy
 cd -
