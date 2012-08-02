@@ -4,6 +4,12 @@
 	<archetype>
       <groupId>jp.ac.kobedenshi</groupId>
       <artifactId>kdweb</artifactId>
+      <version>0.5.1</version>
+      <repository>http://github.com/densuke/archetypes/raw/master/releases/</repository>
+    </archetype>
+	<archetype>
+      <groupId>jp.ac.kobedenshi</groupId>
+      <artifactId>kdweb</artifactId>
       <version>0.5</version>
       <repository>http://github.com/densuke/archetypes/raw/master/releases/</repository>
     </archetype>
