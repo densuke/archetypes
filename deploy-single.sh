@@ -5,6 +5,12 @@ REPO="$2"
 
 if [ "x$2" = "x" ]; then
 	REPO="snapshot-repo"
+	DIR=snapshots
+fi
+
+if [ "x$2" = "xreleases" ]; then
+	REPO="releases"
+	DIR="releases"
 fi
 
 if [ ! -d $SUBDIR ]; then
@@ -12,5 +18,5 @@ if [ ! -d $SUBDIR ]; then
 	exit 1
 fi
 cd $SUBDIR
-mvn -DaltDeploymentRepository=${REPO}::default::file:../snapshots/ -Darchetype.filterdExtentions=jpg clean deploy
+mvn -DaltDeploymentRepository=${REPO}::default::file:../${DIR}/ -Darchetype.filterdExtentions=jpg clean deploy
 cd -
