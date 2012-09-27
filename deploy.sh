@@ -1,7 +1,7 @@
 #!/bin/sh
 
 REPO="$1"
-SUBDIRS="myapp mywebapp kdweb"
+SUBDIRS="myapp mywebapp kdweb kdapp"
 
 if [ "x$1" = "x" ]; then
 	REPO="snapshot-repo"
