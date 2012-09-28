@@ -18,5 +18,6 @@ if [ ! -d $SUBDIR ]; then
 	exit 1
 fi
 cd $SUBDIR
+git pull
 mvn -DaltDeploymentRepository=${REPO}::default::file:../${DIR}/ -Darchetype.filterdExtentions=jpg clean deploy
 cd -
