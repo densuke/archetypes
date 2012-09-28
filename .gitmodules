@@ -10,3 +10,6 @@
 [submodule "kdapp"]
 	path = kdapp
 	url = https://github.com/densuke/kdapp.git
+[submodule "kdapp-0.8"]
+	path = kdapp-0.8
+	url = git://github.com/densuke/kdapp.git

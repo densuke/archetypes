@@ -43,5 +43,11 @@
       <version>0.6.1-SNAPSHOT</version>
       <repository>http://github.com/densuke/archetypes/raw/master/snapshots</repository>
     </archetype>
+	<archetype>
+      <groupId>jp.ac.kobedenshi</groupId>
+      <artifactId>kdapp</artifactId>
+      <version>0.8-SNAPSHOT</version>
+      <repository>http://github.com/densuke/archetypes/raw/master/snapshots</repository>
+    </archetype>
   </archetypes>
 </archetype-catalog>
