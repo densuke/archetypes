@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jp.ac.kobedenshi</groupId>
   <artifactId>kdapp</artifactId>
-  <version>0.8</version>
+  <version>0.9.1</version>
   <name>神戸電子専門学校 2年生授業向けアーキタイプ</name>
   <url>http://www.kobedenshi.ac.jp/</url>
   <properties>
