@@ -4,9 +4,6 @@
 [submodule "mywebapp"]
 	path = mywebapp
 	url = git@github.com:densuke/mywebapp.git
-[submodule "kdweb"]
-	path = kdweb
-	url = git@github.com:densuke/kdweb.git
 [submodule "kdapp"]
 	path = kdapp
 	url = https://github.com/densuke/kdapp.git
