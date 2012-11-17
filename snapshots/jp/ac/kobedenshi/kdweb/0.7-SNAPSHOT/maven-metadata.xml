@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>jp.ac.kobedenshi</groupId>
+  <artifactId>kdweb</artifactId>
+  <version>0.7-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20121117.014957</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20121117014957</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.7-20121117.014957-1</value>
+        <updated>20121117014957</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.7-20121117.014957-1</value>
+        <updated>20121117014957</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
