@@ -31,7 +31,7 @@
       <version>0.5-SNAPSHOT</version>
       <repository>http://github.com/densuke/archetypes/raw/master/snapshots</repository>
     </archetype>
-	<archetype>
+    <archetype>
       <groupId>jp.ac.kobedenshi</groupId>
       <artifactId>kdweb</artifactId>
       <version>0.6-SNAPSHOT</version>
@@ -41,6 +41,12 @@
       <groupId>jp.ac.kobedenshi</groupId>
       <artifactId>kdweb</artifactId>
       <version>0.6.1-SNAPSHOT</version>
+      <repository>http://github.com/densuke/archetypes/raw/master/snapshots</repository>
+    </archetype>
+    <archetype>
+      <groupId>jp.ac.kobedenshi</groupId>
+      <artifactId>kdweb</artifactId>
+      <version>0.7-SNAPSHOT</version>
       <repository>http://github.com/densuke/archetypes/raw/master/snapshots</repository>
     </archetype>
 	<archetype>
